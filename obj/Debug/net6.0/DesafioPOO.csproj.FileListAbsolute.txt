@@ -1,0 +1,15 @@
+/home/diego/dotnet/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO
+/home/diego/dotnet/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO.deps.json
+/home/diego/dotnet/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO.runtimeconfig.json
+/home/diego/dotnet/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO.dll
+/home/diego/dotnet/trilha-net-poo-desafio/bin/Debug/net6.0/DesafioPOO.pdb
+/home/diego/dotnet/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/dotnet/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.AssemblyInfoInputs.cache
+/home/diego/dotnet/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.AssemblyInfo.cs
+/home/diego/dotnet/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.csproj.CoreCompileInputs.cache
+/home/diego/dotnet/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.sourcelink.json
+/home/diego/dotnet/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.dll
+/home/diego/dotnet/trilha-net-poo-desafio/obj/Debug/net6.0/refint/DesafioPOO.dll
+/home/diego/dotnet/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.pdb
+/home/diego/dotnet/trilha-net-poo-desafio/obj/Debug/net6.0/DesafioPOO.genruntimeconfig.cache
+/home/diego/dotnet/trilha-net-poo-desafio/obj/Debug/net6.0/ref/DesafioPOO.dll
